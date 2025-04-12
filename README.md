@@ -35,4 +35,4 @@
 React와 Django의 연동, 간단한 웹 스크래핑 및 자동 요약 기능을 직접 구현하며 백엔드-프론트엔드 협업 구조를 실습했습니다.
 
 ### 📸 스크린샷
-https://velog.velcdn.com/images/velback/post/33778b53-d077-43e5-a783-34f966ed2f02/image.png
+![image](https://velog.velcdn.com/images/velback/post/33778b53-d077-43e5-a783-34f966ed2f02/image.png)
