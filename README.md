@@ -1,7 +1,5 @@
 # 📰 키워드 뉴스 모니터링 & 요약 웹앱
 
-![preview](./images/news-monitor.png)
-
 > Django와 React를 사용하여 구현한 간단한 뉴스 요약 웹 애플리케이션입니다.
 
 ---
