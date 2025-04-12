@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+
+# Node
+KeywordNews/frontend/node_modules/
+KeywordNews/frontend/build/
+
+# 기타
+.env
