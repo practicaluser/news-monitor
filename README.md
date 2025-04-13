@@ -22,8 +22,8 @@
 - Axios
 
 ### 🐍 Backend
-- Python 3.10+
-- Django 4+
+- Python 
+- Django 
 - Django REST Framework
 - BeautifulSoup (웹 스크래핑)
 
